@@ -1,3 +1,7 @@
-body{
-    margin: 0;
+:root{
+    --color-primary: #080324;
+    --color-secondary: #7474ec;
+    --color-contrast: #f6be64;
+    --color-light: #FAF8C3;
+    --color-dark: #030419;
 }
